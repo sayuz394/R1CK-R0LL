@@ -1,0 +1,18 @@
+D:\Documents\R1CK R0LL\R1CK R0LL\bin\Debug\net6.0-windows\R1CK R0LL.exe
+D:\Documents\R1CK R0LL\R1CK R0LL\bin\Debug\net6.0-windows\R1CK R0LL.deps.json
+D:\Documents\R1CK R0LL\R1CK R0LL\bin\Debug\net6.0-windows\R1CK R0LL.runtimeconfig.json
+D:\Documents\R1CK R0LL\R1CK R0LL\bin\Debug\net6.0-windows\R1CK R0LL.dll
+D:\Documents\R1CK R0LL\R1CK R0LL\bin\Debug\net6.0-windows\R1CK R0LL.pdb
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK R0LL.vbproj.AssemblyReference.cache
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK_R0LL.Form1.resources
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK_R0LL.Form2.resources
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK R0LL.vbproj.GenerateResource.cache
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK R0LL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK R0LL.AssemblyInfoInputs.cache
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK R0LL.AssemblyInfo.vb
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK R0LL.vbproj.CoreCompileInputs.cache
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK R0LL.dll
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\refint\R1CK R0LL.dll
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK R0LL.pdb
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\R1CK R0LL.genruntimeconfig.cache
+D:\Documents\R1CK R0LL\R1CK R0LL\obj\Debug\net6.0-windows\ref\R1CK R0LL.dll
